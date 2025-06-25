@@ -1,0 +1,32 @@
+# Ignore class files (compiled Java code)
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore backup or temp files
+*.tmp
+*.bak
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Java IDE settings (for IntelliJ IDEA)
+*.iml
+.idea/
+out/
+
+# Ignore Java IDE settings (for Eclipse)
+.classpath
+.project
+.settings/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore JARs or build artifacts
+*.jar
+
+# Ignore test result files (if any)
+*.test
