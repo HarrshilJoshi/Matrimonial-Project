@@ -35,6 +35,11 @@ The program uses classes such as:
 - `oopproject` (main class): Contains the `main` method and manages menu flow, user interactions, file reading/writing, and user search.
 
 ## File Structure
+
+matrimonial-matchmaking-system/
+├── oopproject.java # Java file containing the entire logic
+├── user5.csv # CSV file storing all user data
+├── README.md # Project documentation
 ## Sample CSV Format (user5.csv)
 
 Each row in `user5.csv` represents one user in the following format:
