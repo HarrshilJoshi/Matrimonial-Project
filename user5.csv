@@ -1,0 +1,36 @@
+Username,Password,Name,Father's Name,Mother's Name,Date of Birth,Gender,Age,Height,Weight,Occupation,Salary,Education,Residence,Mother Tongue,Religion,Caste,Phone
+daiict_1,1,Ravi Sharma,Suresh Sharma,Lakshmi Sharma,1990-01-01,Male,34,175,75,Engineer,60000,Bachelor's Degree,Mumbai,English,Hindu,General,1234567890
+daiict_2,2,Pooja Patel,Vijay Patel,Meena Patel,1995-05-15,Female,29,160,55,Doctor,80000,Medical Degree,Delhi,English,Hindu,General,1234567891
+daiict_3,3,Sanjay Agarwal,Rajesh Agarwal,Sunita Agarwal,1988-11-20,Male,35,165,60,Teacher,50000,Bachelor's Degree,Kolkata,English,Hindu,General,1234567892
+daiict_4,4,Anil Kumar,Ramesh Kumar,Anita Kumar,1992-03-10,Male,32,180,80,Lawyer,70000,Law Degree,Chennai,English,Hindu,General,1234567893
+daiict_5,5,Shweta Desai,Prakash Desai,Meena Desai,1994-07-05,Female,30,155,50,Artist,40000,Bachelor's Degree,Bangalore,English,Hindu,General,1234567894
+daiict_6,6,Mohit Joshi,Anil Joshi,Sunita Joshi,1991-09-25,Male,33,170,70,Accountant,55000,Bachelor's Degree,Hyderabad,English,Hindu,General,1234567895
+daiict_7,7,Neha Gupta,Rajesh Gupta,Anita Gupta,1993-02-18,Female,31,162,58,Engineer,60000,Bachelor's Degree,Pune,English,Hindu,General,1234567896
+daiict_8,8,Kiran Reddy,Suresh Reddy,Lakshmi Reddy,1989-06-30,Male,34,178,82,Doctor,80000,Medical Degree,Jaipur,English,Hindu,General,1234567897
+daiict_9,9,Prakash Singh,Ram Singh,Sunita Singh,1990-12-05,Female,33,163,56,Teacher,50000,Bachelor's Degree,Lucknow,English,Hindu,General,1234567898
+daiict_10,10,Vijay Tiwari,Rajesh Tiwari,Meena Tiwari,1996-04-22,Male,28,175,78,Engineer,60000,Bachelor's Degree,Patna,English,Hindu,General,1234567899
+daiict_11,11,Rajesh Kumar,Mohan Kumar,Sunita Kumar,1995-08-15,Male,29,172,68,Software Developer,65000,Bachelor's Degree,Bangalore,Hindi,Hindu,General,1234567900
+daiict_12,12,Anita Gupta,Rajesh Gupta,Sunita Gupta,1993-11-20,Female,31,160,55,Doctor,75000,Medical Degree,Hyderabad,Hindi,Hindu,General,1234567901
+daiict_13,13,Farhan Khan,Arif Khan,Fatima Khan,1990-05-10,Male,34,175,75,Architect,70000,Bachelor's Degree,Mumbai,Hindi,Muslim,General,1234567902
+daiict_14,14,Priya Sharma,Rajat Sharma,Meena Sharma,1988-03-10,Female,36,165,60,Lawyer,65000,Law Degree,Chennai,Hindi,Hindu,General,1234567903
+daiict_15,15,Amit Patel,Ramesh Patel,Anita Patel,1992-07-05,Male,32,178,80,Artist,45000,Bachelor's Degree,Pune,Hindi,Hindu,General,1234567904
+daiict_16,16,Deepak Jain,Rajeev Jain,Anjali Jain,1991-09-25,Male,33,170,70,Accountant,55000,Bachelor's Degree,Jaipur,Hindi,Jain,General,1234567905
+daiict_17,17,Aisha Khan,Kamal Khan,Ruksana Khan,1993-02-18,Female,31,162,58,Engineer,60000,Bachelor's Degree,Lucknow,Hindi,Muslim,General,1234567906
+daiict_18,18,Neeraj Verma,Manoj Verma,Anjali Verma,1989-06-30,Male,34,178,82,Doctor,80000,Medical Degree,Indore,Hindi,Hindu,General,1234567907
+daiict_19,19,Anjali Desai,Prakash Desai,Sunita Desai,1990-12-05,Female,33,163,56,Teacher,50000,Bachelor's Degree,Ahmedabad,Hindi,Hindu,General,1234567908
+daiict_20,20,Vikas Tiwari,Rajesh Tiwari,Meena Tiwari,1996-04-22,Male,28,175,78,Engineer,60000,Bachelor's Degree,Patna,Hindi,Hindu,General,1234567909
+daiict_21,21,Mohammad Ahmed,Abdul Ahmed,Fatima Ahmed,1985-07-10,Male,39,175,80,Engineer,65000,Bachelor's Degree,Mumbai,English,Muslim,General,1234567910
+daiict_22,22,Aisha Khan,Ahmed Khan,Fatima Khan,1993-08-15,Female,28,160,55,Doctor,85000,Medical Degree,Delhi,English,Muslim,General,1234567911
+daiict_23,23,Yusuf Patel,Mohammad Patel,Sana Patel,1987-05-20,Male,34,175,75,Teacher,55000,Bachelor's Degree,Kolkata,English,Muslim,General,1234567912
+daiict_24,24,Zahra Ali,Hassan Ali,Fatima Ali,1990-10-10,Female,31,162,58,Artist,45000,Bachelor's Degree,Chennai,English,Muslim,General,1234567913
+daiict_25,25,Farhan Khan,Imran Khan,Nida Khan,1989-12-25,Male,32,163,56,Lawyer,75000,Law Degree,Bangalore,English,Muslim,General,1234567914
+daiict_26,26,Harpreet Singh,Satnam Singh,Kiranpreet Singh,1991-06-18,Male,30,175,78,Engineer,65000,Bachelor's Degree,Hyderabad,English,Sikh,General,1234567915
+daiict_27,27,Simran Kaur,Gurpreet Kaur,Raj Kaur,1986-04-10,Female,35,160,55,Doctor,85000,Medical Degree,Pune,English,Sikh,General,1234567916
+daiict_28,28,Maninder Singh,Jaswinder Singh,Rani Singh,1992-09-20,Male,29,170,70,Teacher,55000,Bachelor's Degree,Lucknow,English,Sikh,General,1234567917
+daiict_29,29,Kiran Kaur,Gurmeet Kaur,Rajdeep Kaur,1994-02-15,Female,27,162,58,Lawyer,75000,Law Degree,Patna,English,Sikh,General,1234567918
+daiict_30,30,Navjot Singh,Satinder Singh,Kirandeep Singh,1985-11-30,Male,39,178,82,Artist,45000,Bachelor's Degree,Jaipur,English,Sikh,General,1234567919
+daiict_31,31,Thomas Mathew,John Mathew,Lucy Mathew,1993-07-12,Male,28,175,75,Engineer,65000,Bachelor's Degree,Mumbai,English,Christian,General,1234567920
+daiict_32,32,Susan George,Mathew George,Susan George,1996-04-25,Female,25,160,55,Doctor,85000,Medical Degree,Delhi,English,Christian,General,1234567921
+daiict_33,33,Joseph Paul,George Paul,Anna Paul,1989-10-05,Male,32,165,60,Teacher,55000,Bachelor's Degree,Kolkata,English,Christian,General,1234567922
+daiict_34,34,Angela Thomas,Thomas Thomas,Angela Thomas,1993-05-15,Female,28,155,50,Lawyer,75000,Law Degree,Chennai,English,Christian,General,1234567923
+daiict_35,35,Stephen John,John John,Stephen John,1988-12-10,Male,33,170,70,Artist,45000,Bachelor's Degree,Bangalore,English,Christian,General,1234567924
